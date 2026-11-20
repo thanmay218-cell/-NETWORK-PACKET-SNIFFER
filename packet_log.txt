@@ -1,0 +1,7 @@
+========== NEW CAPTURE SESSION ==========
+
+[2026-11-20 14:30:10] TCP | Source: 192.168.1.5:54321 | Destination: 142.250.183.14:443 | Payload: 128 bytes
+
+[2026-11-20 14:30:12] UDP | Source: 192.168.1.5:5353 | Destination: 224.0.0.251:5353 | Payload: 32 bytes
+
+[2026-11-20 14:30:15] ICMP | Source: 192.168.1.5:- | Destination: 8.8.8.8:- | Payload: 64 bytes
